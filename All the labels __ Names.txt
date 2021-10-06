@@ -1,0 +1,10 @@
+txtCompanies
+txtDetails
+frmGroup10
+btnCompanyDetails
+btnSaveToFile
+lblName
+txtName
+btnCompDetails
+lblGetCompanyInfo
+lblUser
