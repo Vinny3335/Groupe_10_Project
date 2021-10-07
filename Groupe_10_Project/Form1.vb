@@ -75,7 +75,7 @@ Public Class frmGroup10
                     Next
                     txtCompanies.Text &= temp.DisplayCompanyName()
                     Companies(numCompany) = temp
-                Case 3 'Civil Enginnering company
+                Case 3 'Civil Enginnering Company
                     ReDim Preserve Companies(numCompany)
                     Dim numPosition As Integer = CInt(InputBox("Enter the number of positions available"))
                     Dim temp As CivilEng = New CivilEng(numPosition)
